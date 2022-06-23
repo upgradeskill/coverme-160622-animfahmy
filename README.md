@@ -4,5 +4,9 @@ Empty repo for github classroom starter
 
 
 referensi
+https://echo.labstack.com/guide/
 gorm
 sqlc
+https://lumochift.org/posts/golang-koneksi-database/
+https://www.alexedwards.net/blog
+https://12factor.net/
